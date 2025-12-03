@@ -35,3 +35,10 @@ A Linear Algebra Framework.
 A Fortnite Physic's Receptor for various Injector's.
 
 A Texture Library for Object's Of Fortnite, And FrostBite.
+
+
+
+
+6:00 to 7:40 
+
+7:40 to 9:20

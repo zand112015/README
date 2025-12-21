@@ -1,4 +1,9 @@
-A general realitivity phyisic's engine.
+1. Realitivity; A general realitivity phyisic's engine.
+PS ( A game engine is a software framework primarily designed for video game development, which may include specialized software libraries and packages, such as level editors.[1] The term "engine" is a direct analogue of "software engine", having it employed across sectors of the software industry. )
+SEE -> https://en.wikipedia.org/wiki/Game_engine
+Or multi dimensional 
+SEE -> https://en.wikipedia.org/wiki/Quantum_chemistry over a kinetic variable.
+
 
 A CPU memory management rtti based ram integrator.
 
